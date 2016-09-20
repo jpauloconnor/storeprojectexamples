@@ -1,0 +1,74 @@
+body {
+   width: 1000px;
+   margin-left: auto;
+   margin-right: auto;
+   font-family: Veranda;
+   background-image ="journal.jpeg";
+
+}
+
+header {
+	font-weight: bold;
+}
+
+.headerlogo {
+    float: left;
+    margin-right: 10px;
+	}	
+
+		.headerlogo > img {
+		height: 60px;
+		width: 200px;
+}
+
+div {
+    border: 3px solid black;
+}
+
+.searchbox {
+	float: right;
+	padding:  5px;
+	margin: 10px 10px;
+	width: 200px;
+}
+
+#headername {
+	font-size: 40px;
+	color: #603813;
+	padding: 15px;
+	margin: 8px 0px;
+	font-weight: bold;
+}
+
+#welcomeimage {
+	float: left;
+	width:  700px;
+}
+
+#ideaofthemonth {
+	float: right;
+	width:  1000px;
+}
+
+#welcometext {
+	float: left;
+	width: 70%;
+	font-size: 12px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+	#welcometextheader > header {
+		color: 603813;
+		font-size: 15px;
+		font-weight: bold;
+		margin-bottom: 3px;
+	}
+
+footer {
+	clear: both;
+	width: 100%;
+	background-color: gray;
+	margin: 20px 0px 20px;
+	padding: 5px;
+	text-align: center;
+}

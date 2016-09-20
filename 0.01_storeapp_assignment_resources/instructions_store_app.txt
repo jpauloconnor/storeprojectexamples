@@ -1,0 +1,62 @@
+Lesson Plan:
+
+1. Intro
+Tell students that they'll be building the UI for a basic store application. It will be a fake store, and they'll have x amount of time to create it. 
+
+2. Examples
+Show examples of store projects from these files:
+	0.02_example_journal 
+	0.03_example_robots_donuts. 
+
+3. Questions
+While showing examples, ask students what elements & styling they see in the projects. 
+
+4. Wireframing
+Introduce the concept of wireframing. Talking points might include:
+	-most projects start with a wireframe from a customer or architect. 
+	-intentionally rough. The project doesn't start out looking perfect.
+	-can use Balsamiq or other online tool
+	-can also be drawn by hand 
+	-Unlike an outline of a high school paper, it's a must have for starting software.
+
+5. Assignment:
+Send out the following message via Slack:
+
+
+____________________________________begin Slack message _____________________________
+
+
+HTML/CSS Store App Assignment
+
+Description: For this beginning project you'll use HTML & CSS to build the UI(User Interface) for a basic store application. The store will be a fake store(or real if you know someone who needs a web site), and you will have one week outside of class to complete it. 
+
+In order to complete this project, you'll need to meet the following requirements:
+
+	1. Wireframe 
+	Include a wireframe for the layout of your store in your project folder. This can be done with a photo of a drawing or a Balsamiq pdf. Balsamiq is a great tool, however, it only has a 10 day free trial. You will have to pay after this project. The layout of the store is up to you. If you want, please feel free to use the Balsamiq wireframe that we have provided as an example in class. Just be sure that your application closely resembles the basic structure of your wireframe.  
+
+	2. index.html page
+	You'll need to create an html page that uses a variety of elements that we studied. Try to use headers, footers, divs, sections, articles, etc. If an element isn't naturally required, don't worry about it. Just try to provide a layout that is diverse and interesting. 
+
+	3. main.css page
+	You'll need to do all of your styling in a separate stylesheet. We have covered enough concepts to help you be successful with this project, but you can also do more research on CSS and include things that we did not cover. That's up to you.
+
+	4. img folder
+	Plese put any of your assets/images in an img folder. 
+				
+	5. Content/Theme
+	The content and theme of the store is entirely up to you. Just be sure that it is appropriate for class and that it is free of spelling errors/typos. 
+
+Due Date: Monday September 19th.
+
+Note: This store app will be your homework this week, and you will be adding this to your portfolio application. It will be on your portfolio next Tuesday. 			
+
+   
+
+____________________________________end Slack message _____________________________
+
+
+6. Take Questions
+
+7. Share examples
+If needed and if students ask, feel free to share the code for the example projects. It is our thinking that it will just be better scaffolding for them. 

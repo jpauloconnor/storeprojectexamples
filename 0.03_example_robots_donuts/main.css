@@ -1,0 +1,172 @@
+/*General Stuff*/
+body {
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: Verdana;
+}
+
+header {
+	font-weight: bold;
+}
+
+/*Top Row*/
+#main-header{
+	height: 80px;
+}
+.storefront{
+	float: left;
+	margin-right: 10px;
+}
+img.storefront  {
+	height: 60px;
+	width: 60px;
+	border-radius: 30px; /*Makes the*/
+}
+#search {
+	float: right;
+	padding: 5px;
+	margin: 10px 10px 0px 0px;
+	width: 200px;
+}
+
+#header-name{
+	font-size: 40px;
+	color: green;
+	padding: 15px;
+	margin: 8px 0px;
+	font-weight: bold;
+}
+
+#opening-image {
+	float: left;
+	width: 700px;
+	height: 300px;
+}
+
+#donut-of-the-day {
+	float: right;
+	width: 300px;
+	height: 300px;
+}
+
+
+
+/*Welcome Section*/
+#welcome {
+	float: left;
+	width: 70%; 
+	font-size: 12px;
+	margin: 20px 0px 20px 0px;
+}
+
+#welcome > header {
+	color: green;
+	font-size: 15px;
+	font-weight: bold;
+	margin-bottom: 3px;
+}
+
+
+/*specials of the day*/
+#specials {
+	float: right;
+	width: 300px;
+	margin: 20px 0px 20px 0px;
+}
+
+#specials > header {
+	margin-left: 5px;
+	color: green;
+	font-size: 15px;
+	margin: 0px 0px 3px 0px;
+	font-weight: bold;
+}
+
+#specials > ul {
+	list-style: none;
+}
+
+#specials > ul > li {
+	margin: 0px 0px 3px 0px;
+}
+
+
+/*Donut List section*/
+#favorites {
+	height: 100%;
+	width: 700px;
+	float: left;
+	margin: 0px 0px 20px 0px;
+}
+
+#donut-header {
+	color: green;
+	font-size: 15px;
+	margin: 0px 0px 5px 0px;
+	height: 25px;
+}
+
+.header-title {
+	background-color: gray;
+	border-radius: 5px;
+}
+.products {
+	width: 25%;
+	float: left;
+	margin: 0px 0px 20px 0px;
+}
+
+article.product-article {
+	height:150px;
+	width: 200px;
+
+	border-width: 2px;
+	border-style: solid;
+	border-color: green;
+	margin: 3px 3px 3px 3px;
+	padding: 3px 3px 3px 3px;
+	border-radius: 5px;
+}
+img.product-article-thumbnail {
+	width: 30px; 
+	height: 30px;
+}
+
+img.product-article-large-image {
+	width: 400px;
+	height: 400px;
+}
+
+#specials {
+
+}
+#test {
+	width: 70%;
+	float: right;
+}
+
+#testimage {
+	width: 70%;
+}
+
+img#customerofday{
+	width: 450px;
+	height: 450px;
+	border-radius: 10px;
+	text-align: center;
+}
+figcaption {
+	font-size: 12px;
+	font-weight: bold;
+	font-style: helvetica;
+	text-align: center;
+}
+footer {
+	clear: both;
+	width: 100%;
+	background-color: gray;
+	margin: 20px 0px 20px 0px;
+	padding: 5px;
+	border-radius: 5px;
+}
